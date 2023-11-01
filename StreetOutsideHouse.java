@@ -6,9 +6,9 @@ public class StreetOutsideHouse extends State{
 	public StreetOutsideHouse(Model model) {
 		this.model = model;
 		
-		String getDescription = "You start the game on the street outside your house.";
-		ArrayList<String>getOptions;
-		int choice;
+		State getDescription = "You start the game on the street outside your house.";
+		State getOptions;
+		State choice;
 	}
 	
 }
