@@ -4,5 +4,8 @@ public class OutsideSchoolBuilding extends State{
 	
 	public OutsideSchoolBuilding(Model model) {
 		this.model = model;
+
+		State getDescription =
+		
 	}
 }
