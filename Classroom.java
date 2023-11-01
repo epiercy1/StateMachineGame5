@@ -4,5 +4,8 @@ public class Classroom extends State{
 	
 	public Classroom(Model model) {
 		this.model = model;
+
+		State getDescription =
+		
 	}
 }
