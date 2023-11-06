@@ -4,5 +4,7 @@ public class Hallway extends State{
 	
 	public Hallway(Model model) {
 		this.model = model;
+
+		State getDescription =
 	}
 }
