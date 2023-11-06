@@ -4,5 +4,9 @@ public class Auditorium extends State{
 	
 	public Auditorium(Model model) {
 		this.model = model;
+
+		
+		State getOptions;
+		State processChoice(int choice) ;
 	}
 }
