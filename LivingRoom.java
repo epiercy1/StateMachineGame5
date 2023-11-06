@@ -4,5 +4,9 @@ public class LivingRoom extends State{
 	
 	public LivingRoom(Model model) {
 		this.model = model;
+
+		State getDescription = "";
+		State getOptions;
+		State processChoice(int choice);
 	}
 }
