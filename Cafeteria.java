@@ -4,5 +4,7 @@ public class Cafeteria extends State{
 	
 	public Cafeteria(Model model) {
 		this.model = model;
+
+		State getDescription =
 	}
 }
